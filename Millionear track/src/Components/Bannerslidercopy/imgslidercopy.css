@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.image-cont {
+    position: relative;
+    /* background-color: aqua; */
+    width: 100%;
+    height: 400px; /* Set height according to your requirement */
+    overflow: hidden;
+  }
+  .image-cont img {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensure the image covers the container */
+  }
+  

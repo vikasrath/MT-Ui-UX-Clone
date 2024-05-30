@@ -1,0 +1,7 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.imgslider{
+    transition: opacity 2s ease-in-out;
+}

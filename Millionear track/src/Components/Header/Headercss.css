@@ -1,0 +1,17 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.transform-translate-x-pos{
+  transform: translateX(100%);
+}
+.transform-translate-x-neg{
+    transform: translateX(-100%);
+  }
+  .block{
+    display: block;
+    transition: all 3s;
+  }
+  .none{
+    display: none;
+  }
