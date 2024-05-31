@@ -12,3 +12,6 @@
 .shadow{
     box-shadow: 0px 0px 5px #656564;
 }
+.green-shadow{
+    text-shadow: 5px 5px 18px #00ff66c4;
+}

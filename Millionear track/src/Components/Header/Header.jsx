@@ -2,8 +2,6 @@
 import React, { useState } from "react";
 import logo from './logo1.png';
 import { NavLink } from 'react-router-dom';
-import "./Headercss.css"
-
 function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [icon, seticon] = useState(false);

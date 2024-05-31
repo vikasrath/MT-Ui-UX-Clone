@@ -38,6 +38,7 @@ function Contact2() {
                         <img src={deta.avatar_url} alt="git picture" className='mobile:w-[70%] w-[70%] rounded-md ' />
                     </div>
                     <div className='  mobile:text-center  mobile:p-6 mobile:text-3xl text-lg'>
+                        <div className=' text-3xl text-green-500  font-bold pb-5 green-shadow'>My Github Account</div>
                         <div>Followers:{deta.followers}</div>
                         <div className=' mobile:mt-10'>Following:{deta.following}</div>
                     </div>
