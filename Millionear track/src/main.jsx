@@ -23,8 +23,7 @@ import Contact2 from './Components/Contact/Contact2.jsx'
       <Route path='contact2' element={<Contact2/>}/>
       {/* <Route path='Login' element={<Login/>}/> */}
     </Route>
-  ),
-  { basename: '/<repository-name>' } 
+  )
  )
 
 
